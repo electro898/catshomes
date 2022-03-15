@@ -6,11 +6,11 @@
 
 /*
 Plugin Name: Vercel Deploy Hooks
-Plugin URI: https://github.com/aderaaij/wp-vercel-deploy-hooks
+Plugin URI: hhttps://github.com/electro898/catshomes
 Description: WordPress plugin for building your Vercel static site on command, post publish/update or scheduled
 Version: 1.4.0
 Author: Arden de Raaij
-Author URI: https://arden.nl
+Author URI: https://github.com/electro898/catshomes
 License: GPLv3 or later
 Text Domain: vercel-deploy-hooks
 */
@@ -149,7 +149,7 @@ class vdhp_vercel_webhook_deploy {
 
             <footer>
                 <h3><?php _e('Extra Info', 'vercel-deploy-hooks');?></h3>
-                <p><a href="https://github.com/aderaaij/wp-vercel-deploy-hooks"><?php _e('Plugin repository on Github', 'vercel-deploy-hooks');?></a></p>
+                <p><a href="https://github.com/electro898/catshomes"><?php _e('Plugin repository on Github', 'vercel-deploy-hooks');?></a></p>
                 <p><a href="https://vercel.com/docs/more/deploy-hooks"><?php _e('Vercel Deploy Hooks Documentation', 'vercel-deploy-hooks');?></a></p>
             </footer>
 
@@ -405,7 +405,7 @@ class vdhp_vercel_webhook_deploy {
             'label' => __('Vercel Deploy Hook URL', 'vercel-deploy-hooks'),
             'section' => 'developer_section',
             'type' => 'text',
-                'placeholder' => 'e.g. https://api.vercel.com/v1/integrations/deploy/QmcwKGEbAyFtfybXBxvuSjFT54dc5dRLmAYNB5jxxXsbeZ/hUg65Lj4CV',
+                'placeholder' => 'e.g. https://api.vercel.com/v1/integrations/deploy/prj_Ix5gZD2BfE0A4Ik2rBcg8ldfBmLO/0WgtMsNhWW',
                 'default' => '',
           ),
           array(
