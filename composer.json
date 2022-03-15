@@ -4,19 +4,19 @@
   "type": "wordpress-plugin",
   "license": "GPLv3",
   "description": "WordPress starter theme with a modern development workflow",
-  "homepage": "https://github.com/aderaaij/wp-vercel-deploy-hooks",
+  "homepage": "https://github.com/electro898/catshomes/",
   "authors": [
     {
-      "name": "Arden de Raaij",
-      "email": "a.de.raaij@gmail.com",
-      "homepage": "https://github.com/aderaaij/"
+      "name": "electro89",
+      "email": "adijat.sulejmani@gmail.com",
+      "homepage": "https://github.com/electro898"
     }
   ],
   "keywords": [
     "wordpress"
   ],
   "support": {
-    "issues": "https://github.com/aderaaij/wp-vercel-deploy-hooks/issues"
+    "issues": "https://github.com/electro898/catshomes/issues"
   },
   "autoload": {
     "psr-4": {
